@@ -1,0 +1,1 @@
+return { tabs, setTabs, activeTabId, setActiveTabId, addTab, closeTab, activateTab };
